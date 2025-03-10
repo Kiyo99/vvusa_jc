@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "264824026715",
+    "project_id": "vvusa-cb6ac",
+    "storage_bucket": "vvusa-cb6ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264824026715:android:45b1927e098867bf95b17e",
+        "android_client_info": {
+          "package_name": "com.example.k_books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264824026715-pc3bqq4kncggid2v4p6qqv7vas3cmbvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuN8ATUvXVRANAGdqa3fAgdnbaNQQ35x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264824026715-pc3bqq4kncggid2v4p6qqv7vas3cmbvn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264824026715-h9l10b39iemch7f64ovdn8q81qqm8r84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kBooks"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264824026715:android:8f1b802cb1aac4ea95b17e",
+        "android_client_info": {
+          "package_name": "com.example.vvusa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264824026715-pc3bqq4kncggid2v4p6qqv7vas3cmbvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuN8ATUvXVRANAGdqa3fAgdnbaNQQ35x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264824026715-pc3bqq4kncggid2v4p6qqv7vas3cmbvn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264824026715-h9l10b39iemch7f64ovdn8q81qqm8r84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kBooks"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264824026715:android:d743c43988c7e74295b17e",
+        "android_client_info": {
+          "package_name": "com.example.vvusa_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264824026715-pc3bqq4kncggid2v4p6qqv7vas3cmbvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuN8ATUvXVRANAGdqa3fAgdnbaNQQ35x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264824026715-pc3bqq4kncggid2v4p6qqv7vas3cmbvn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264824026715-h9l10b39iemch7f64ovdn8q81qqm8r84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kBooks"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264824026715:android:a7f4022be08460d095b17e",
+        "android_client_info": {
+          "package_name": "com.example.vvusa_jc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264824026715-pc3bqq4kncggid2v4p6qqv7vas3cmbvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuN8ATUvXVRANAGdqa3fAgdnbaNQQ35x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264824026715-pc3bqq4kncggid2v4p6qqv7vas3cmbvn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264824026715-h9l10b39iemch7f64ovdn8q81qqm8r84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kBooks"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264824026715:android:c4847bbf8927292095b17e",
+        "android_client_info": {
+          "package_name": "com.example.vvusawa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264824026715-pc3bqq4kncggid2v4p6qqv7vas3cmbvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuN8ATUvXVRANAGdqa3fAgdnbaNQQ35x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264824026715-pc3bqq4kncggid2v4p6qqv7vas3cmbvn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264824026715-h9l10b39iemch7f64ovdn8q81qqm8r84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kBooks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
